@@ -1,0 +1,368 @@
+[
+    {
+      "1": "0",
+      "2": "1",
+      "3": "2",
+      "4": "3",
+      "Goal": "[bird] in forest",
+      "Set": "core",
+      "Reverse": "[egg] in forest"
+    },
+    {
+      "1": "0",
+      "2": "1",
+      "3": "2",
+      "4": "3",
+      "Goal": "[bird] in grassland",
+      "Set": "core",
+      "Reverse": "[egg] in grassland"
+    },
+    {
+      "1": "0",
+      "2": "1",
+      "3": "2",
+      "4": "3",
+      "Goal": "[bird] in wetland",
+      "Set": "core",
+      "Reverse": "[egg] in wetland"
+    },
+    {
+      "1": "0",
+      "2": "1",
+      "3": "2",
+      "4": "3",
+      "Goal": "[bowl] [bird] with [egg]",
+      "Set": "core",
+      "Reverse": "[egg] in [bowl]"
+    },
+    {
+      "1": "0",
+      "2": "1",
+      "3": "2",
+      "4": "3",
+      "Goal": "[cavity] [bird] with [egg]",
+      "Set": "core",
+      "Reverse": "[egg] in [cavity]"
+    },
+    {
+      "1": "1",
+      "2": "3",
+      "3": "5",
+      "4": "7",
+      "Goal": "[egg] in [bowl]",
+      "Set": "core",
+      "Reverse": "[bowl] [bird] with [egg]"
+    },
+    {
+      "1": "1",
+      "2": "3",
+      "3": "5",
+      "4": "7",
+      "Goal": "[egg] in [cavity]",
+      "Set": "core",
+      "Reverse": "[cavity] [bird] with [egg]"
+    },
+    {
+      "1": "1",
+      "2": "3",
+      "3": "5",
+      "4": "7",
+      "Goal": "[egg] in [ground]",
+      "Set": "core",
+      "Reverse": "[ground] [bird] with [egg]"
+    },
+    {
+      "1": "1",
+      "2": "3",
+      "3": "5",
+      "4": "7",
+      "Goal": "[egg] in [platform]",
+      "Set": "core",
+      "Reverse": "[goal] [bird] with [platform]"
+    },
+    {
+      "1": "1",
+      "2": "3",
+      "3": "5",
+      "4": "7",
+      "Goal": "[egg] in forest",
+      "Set": "core",
+      "Reverse": "[bird] in forest"
+    },
+    {
+      "1": "1",
+      "2": "3",
+      "3": "5",
+      "4": "7",
+      "Goal": "[egg] in grassland",
+      "Set": "core",
+      "Reverse": "[bird] in grassland"
+    },
+    {
+      "1": "1",
+      "2": "3",
+      "3": "5",
+      "4": "7",
+      "Goal": "[egg] in wetland",
+      "Set": "core",
+      "Reverse": "[bird] in wetland"
+    },
+    {
+      "1": "0",
+      "2": "1",
+      "3": "2",
+      "4": "3",
+      "Goal": "[ground] [bird] with [egg]",
+      "Set": "core",
+      "Reverse": "[egg] in [ground]"
+    },
+    {
+      "1": "0",
+      "2": "1",
+      "3": "2",
+      "4": "3",
+      "Goal": "[platform] [bird] with [egg]",
+      "Set": "core",
+      "Reverse": "[egg] in [platform]"
+    },
+    {
+      "1": "-1",
+      "2": "0",
+      "3": "1",
+      "4": "2",
+      "Goal": "sets of [egg][egg][egg] in [wetland][grassland][forest]",
+      "Set": "core",
+      "Reverse": "total [bird]"
+    },
+    {
+      "1": "2",
+      "2": "5",
+      "3": "8",
+      "4": "11",
+      "Goal": "total [bird]",
+      "Set": "core",
+      "Reverse": "sets of [egg][egg][egg] in [wetland][grassland][forest]"
+    },
+    {
+      "1": "-1",
+      "2": "-1",
+      "3": "1",
+      "4": "2",
+      "Goal": "[bird_with_tucked_card] birds with tucked cards",
+      "Set": "european",
+      "Reverse": "food cost of played [bird]"
+    },
+    {
+      "1": "1",
+      "2": "1",
+      "3": "2",
+      "4": "3",
+      "Goal": "[bird] in one row",
+      "Set": "european",
+      "Reverse": "filled columns"
+    },
+    {
+      "1": "1",
+      "2": "3",
+      "3": "5",
+      "4": "6",
+      "Goal": "[bird] with no [egg]",
+      "Set": "european",
+      "Reverse": "[bird] word >4 [feather]"
+    },
+    {
+      "1": "-1",
+      "2": "0",
+      "3": "1",
+      "4": "2",
+      "Goal": "[bird] word >4 [feather]",
+      "Set": "european",
+      "Reverse": "[bird] with no [egg]"
+    },
+    {
+      "1": "2",
+      "2": "2",
+      "3": "3",
+      "4": "3",
+      "Goal": "[card] in hand",
+      "Set": "european",
+      "Reverse": "[wild] in personal supply"
+    },
+    {
+      "1": "2",
+      "2": "1",
+      "3": "3",
+      "4": "3",
+      "Goal": "[wild] in personal supply",
+      "Set": "european",
+      "Reverse": "[card] in hand"
+    },
+    {
+      "1": "0",
+      "2": "2",
+      "3": "4",
+      "4": "5",
+      "Goal": "brown powers",
+      "Set": "european",
+      "Reverse": "white & no powers"
+    },
+    {
+      "1": "-1",
+      "2": "-1",
+      "3": "0",
+      "4": "1",
+      "Goal": "filled columns",
+      "Set": "european",
+      "Reverse": "[bird] in one row"
+    },
+    {
+      "1": "3",
+      "2": "8",
+      "3": "14",
+      "4": "20",
+      "Goal": "food cost of played [bird]",
+      "Set": "european",
+      "Reverse": "[bird_with_tucked_card] birds with tucked cards"
+    },
+    {
+      "1": "-1",
+      "2": "0",
+      "3": "1",
+      "4": "1",
+      "Goal": "white & no powers",
+      "Set": "european",
+      "Reverse": "brown powers"
+    },
+    {
+      "1": "1",
+      "2": "1",
+      "3": "1",
+      "4": "0",
+      "Goal": "[action_cube_gray] cubes on \"play a bird\"",
+      "Set": "oceania",
+      "Reverse": "[bird] worth ≤3 [feather]"
+    },
+    {
+      "1": "0",
+      "2": "2",
+      "3": "2",
+      "4": "3",
+      "Goal": "[beak_pointing_left] beak pointing left",
+      "Set": "oceania",
+      "Reverse": "[beak_pointing_right] beak pointing right"
+    },
+    {
+      "1": "0",
+      "2": "2",
+      "3": "2",
+      "4": "3",
+      "Goal": "[beak_pointing_right] beak pointing right",
+      "Set": "oceania",
+      "Reverse": "[beak_pointing_left] beak pointing left"
+    },
+    {
+      "1": "0",
+      "2": "2",
+      "3": "2",
+      "4": "3",
+      "Goal": "[bird] worth ≤3 [feather]",
+      "Set": "oceania",
+      "Reverse": "[action_cube_gray] cubes on \"play a bird\""
+    },
+    {
+      "1": "1",
+      "2": "2",
+      "3": "4",
+      "4": "6",
+      "Goal": "[fruit] + [seed] in food cost of your birds",
+      "Set": "oceania",
+      "Reverse": "[invertebrate] in food cost of your birds"
+    },
+    {
+      "1": "1",
+      "2": "3",
+      "3": "5",
+      "4": "5",
+      "Goal": "[invertebrate] in food cost of your birds",
+      "Set": "oceania",
+      "Reverse": "[fruit] + [seed] in food cost of your birds"
+    },
+    {
+      "1": "0",
+      "2": "1",
+      "3": "2",
+      "4": "3",
+      "Goal": "[rodent] + [fish] in food cost of your birds",
+      "Set": "oceania",
+      "Reverse": "no goal"
+    },
+    {
+      "1": "[nectar]",
+      "2": "[nectar]",
+      "3": "[nectar]",
+      "4": "[nectar]",
+      "Goal": "no goal",
+      "Set": "oceania",
+      "Reverse": "[rodent] + [fish] in food cost of your birds"
+    },
+    {
+      "Goal": "[duet_token] in any one horizontal row",
+      "Set": "asia",
+      "Reverse": "horizontal rows with at least 1 of your [duet_token]"
+    },
+    {
+      "Goal": "[duet_token] on edge of map",
+      "Set": "asia",
+      "Reverse": "[duet_token] not on edge of map"
+    },
+    {
+      "Goal": "[duet_token] on [bowl] [cavity] [ground] [platform]",
+      "Set": "asia",
+      "Reverse": "[duet_token] on [fish] [fruit] [rodent] [seed] [invertebrate]"
+    },
+    {
+      "Goal": "[duet_token] in [forest]",
+      "Set": "asia",
+      "Reverse": "[duet_token] on pairs of matching symbols"
+    },
+    {
+      "Goal": "[duet_token] in [grassland]",
+      "Set": "asia",
+      "Reverse": "total [duet_token] on map"
+    },
+    {
+      "Goal": "[duet_token] in [wetland]",
+      "Set": "asia",
+      "Reverse": "fewest [duet_token] on bonus spaces"
+    },
+    {
+      "Goal": "total [duet_token] on map",
+      "Set": "asia",
+      "Reverse": "[duet_token] in [grassland]"
+    },
+    {
+      "Goal": "[duet_token] not on edge of map",
+      "Set": "asia",
+      "Reverse": "[duet_token] on edge of map"
+    },
+    {
+      "Goal": "fewest [duet_token] on bonus spaces",
+      "Set": "asia",
+      "Reverse": "[duet_token] in [wetland]"
+    },
+    {
+      "Goal": "[duet_token] on [fish] [fruit] [rodent] [seed] [invertebrate]",
+      "Set": "asia",
+      "Reverse": "[duet_token] on [bowl] [cavity] [ground] [platform]"
+    },
+    {
+      "Goal": "horizontal rows with at least 1 of your [duet_token]",
+      "Set": "asia",
+      "Reverse": "[duet_token] in any one horizontal row"
+    },
+    {
+      "Goal": "[duet_token] on pairs of matching symbols",
+      "Set": "asia",
+      "Reverse": "[duet_token] in [forest]"
+    }
+  ]
